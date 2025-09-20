@@ -1,1 +1,5 @@
-mlproject.egg-info
+mlproject.egg-info/
+
+# Ignore all log files
+logs/
+*.log
